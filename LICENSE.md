@@ -1,4 +1,4 @@
-# 
+# Personnalisé A web AI object detection préréglages. Avec optimisation de modèles et reconnaissance d'images — optimisé pour des performances maximales.
 
 
 
